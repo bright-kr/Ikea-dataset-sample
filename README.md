@@ -2,7 +2,7 @@
 
 <h2>1001개 Ikea 제품으로 구성된 샘플 データセット</h2>
 
-![Ikea dataset header](https://github.com/luminati-io/Ikea-dataset-sample/blob/main/Ikea-datasets.png)
+![Ikea dataset header](https://github.com/bright-kr/Ikea-dataset-sample/blob/main/Ikea-datasets.png)
 
 1000개 이상의 레코드로 구성된 Ikea データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
