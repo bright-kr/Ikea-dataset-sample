@@ -1,12 +1,12 @@
 # # Ikea 데이터셋 샘플
 
-<h2>1001개 Ikea 제품으로 구성된 샘플 データセット</h2>
+<h2>1001개 Ikea 제품으로 구성된 샘플 데이터셋</h2>
 
 ![Ikea dataset header](https://github.com/bright-kr/Ikea-dataset-sample/blob/main/Ikea-datasets.png)
 
-1000개 이상의 레코드로 구성된 Ikea データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
+1000개 이상의 레코드로 구성된 Ikea 데이터셋 샘플입니다. 데이터셋은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>Ikea データセット에 포함된 일부 데이터 포인트는 다음과 같습니다:</h2>
+<h2>Ikea 데이터셋에 포함된 일부 데이터 포인트는 다음과 같습니다:</h2>
 
 * ```description```: Ikea 제품을 설명하는 텍스트 상세 정보입니다
 * ```in_stock```: 제품이 현재 재고가 있는지 여부를 나타냅니다
@@ -43,19 +43,19 @@
 그리고 더 많은 항목이 있습니다.
 
 이는  <b>71.9K 레코드</b> 이상을 포함하는 "Ikea products"
-データセット에서 파생된 샘플 하위 집합입니다.
+데이터셋에서 파생된 샘플 하위 집합입니다.
 
-사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. 옵션으로 파일을 .gz로 압축할 수 있습니다</b>.
+사용 가능한 데이터셋 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. 옵션으로 파일을 .gz로 압축할 수 있습니다</b>.
 
-データセット 전달 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+데이터셋 전달 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 업데이트 빈도: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 추출된 데이터 포인트에 추가로 제공 가능한 데이터 강화: <b>요청에 따라 제공됩니다.</b>
 
-<b>[전체 Ikea データセット 받기](https://brightdata.co.kr/products/datasets/ikea)</b>.
+<b>[전체 Ikea 데이터셋 받기](https://brightdata.co.kr/products/datasets/ikea)</b>.
 
-<h2>Ikea データセット의 사용 사례는 무엇입니까?</h2>
+<h2>Ikea 데이터셋의 사용 사례는 무엇입니까?</h2>
 
 <h3>1. Pricing Optimization</h3>
 유사한 IKEA 제품 및 카테고리를 경쟁사의 제품 및 카테고리와 비교하여 가격 전략을 수립하고 동적 가격 책정 모델을 구현합니다.
@@ -64,8 +64,8 @@
 재고 격차, 특정 IKEA 제품에 대한 수요 증가, 소비자 사이에서의 트렌딩 아이템을 식별합니다.
 
 <h3>3. Market Strategy Optimization</h3>
-IKEA データセット을 활용하여 시장 전략을 분석하고, 핵심 트렌드를 발굴하며, 고객 선호도를 이해합니다.
+IKEA 데이터셋을 활용하여 시장 전략을 분석하고, 핵심 트렌드를 발굴하며, 고객 선호도를 이해합니다.
 
-<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구 및 データセット 무료 이용</h2>
+<h2>학술 연구자 및 NGO를 위한 Web스크레이핑 도구 및 데이터셋 무료 이용</h2>
 
-Bright Initiative는 다양한 환경 및 사회적 대의를 증진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b>와 <b>[바로 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
+Bright Initiative는 다양한 환경 및 사회적 대의를 증진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b>와 <b>[바로 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
